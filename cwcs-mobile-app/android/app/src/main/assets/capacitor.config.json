@@ -1,0 +1,7 @@
+{
+  "appId": "com.app.cwcs",
+  "appName": "SKSK",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist"
+}

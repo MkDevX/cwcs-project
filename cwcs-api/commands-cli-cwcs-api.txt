@@ -1,0 +1,3 @@
+npm run start:dev -> developmnet server
+npm run build -> build project to dist/ folder
+npm run start:prod -> production server

@@ -1,0 +1,2 @@
+npm run serve -> developmnet server
+npm run build ; npx cap copy ; npx cap open android -> build android studio project to android/ folder
