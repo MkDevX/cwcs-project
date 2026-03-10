@@ -1,7 +1,7 @@
-# System kontroli stanowiska komputerowego
+# Computer workstation control system
+The computer workstation monitoring system enables tracking of computer workstation usage history. It allows users to quickly report computer workstation failures and monitor user login history (who logged in, when, and where) with the ability to view active sessions in real time. The system consists of two parts: a desktop application and an Android app.
 
-Systemu kontroli stanowiska komputerowego umożliwia śledzenie historii eksploatacji stanowisk komputerowych. Wprowadza możliwość szybkiego zgłaszania awarii stanowiska komputerowego przez korzystającego z niego użytkownika oraz monitorowanie historii logowań użytkowników (kto, kiedy i gdzie się zalogował) z możliwością podglądu aktywnych sesji w czasie rzeczywistym. System ten składa się z dwóch części: aplikacji desktop`owej oraz aplikacji Android.
-
+## Preview
 <img src="https://github.com/user-attachments/assets/210f754c-ca42-4cf7-b042-4a989df32df9" width="200" height="auto" />
 <img src="https://github.com/user-attachments/assets/a69b65a9-9fa7-4452-96cb-3771db6d8082" width="200" height="auto" />
 <img src="https://github.com/user-attachments/assets/b64a86ad-f624-43d7-a851-e1b93013424e" width="200" height="auto" />
